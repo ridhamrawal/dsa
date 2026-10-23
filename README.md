@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ridhamrawal/dsa/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ridhamrawal/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhamrawal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ridhamrawal/dsa/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ridhamrawal/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhamrawal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -43,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ridhamrawal/dsa/tree/master/0205-isomorphic-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
