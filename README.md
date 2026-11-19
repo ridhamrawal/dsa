@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/ridhamrawal/dsa/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ridhamrawal/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ridhamrawal/dsa/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ridhamrawal/dsa/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridhamrawal/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhamrawal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ridhamrawal/dsa/tree/master/0404-sum-of-left-leaves) |
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ridhamrawal/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridhamrawal/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
