@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ridhamrawal/dsa/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ridhamrawal/dsa/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ridhamrawal/dsa/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridhamrawal/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhamrawal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ridhamrawal/dsa/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -84,4 +86,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ridhamrawal/dsa/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ridhamrawal/dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
